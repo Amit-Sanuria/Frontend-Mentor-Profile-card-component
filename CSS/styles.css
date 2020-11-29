@@ -1,0 +1,118 @@
+body{
+    margin: 0;
+    background-color: hsl(185, 75%, 39%);
+}
+
+hr{
+    border-color: hsl(0, 18%, 97%);
+}
+
+.card{
+    position: absolute;
+    bottom: 25%;
+    left: 35%;
+    background-color: white;
+    text-align: center;
+    margin: 200px auto auto auto;
+    width: fit-content;
+    border-radius: 20px;
+}
+
+.bg-card{
+    display: block;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+
+.top{
+    position: absolute;
+    bottom: 35%;
+    right: 56%;
+}
+
+.bottom{
+    position: fixed;
+    top: 40%;
+    left: 51%;
+    background-color: transparent;
+}
+
+.victor{
+    display:inline-block;
+    position: absolute;
+    border-radius: 50%;
+    border:4px solid white;
+    right: 36%;
+    bottom: 50%;
+}
+
+.class1{
+    font-family: 'Kumbh Sans', sans-serif;
+    font-weight: 700;   
+    margin-bottom: 0px;
+    padding-top: 66px;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.attribution{
+    position: fixed;
+    margin-top: 46rem;
+    text-align: end;
+    font-family: 'Kumbh Sans', sans-serif;
+    font-weight: 700;   
+}
+
+.London{
+    font-family: 'Kumbh Sans', sans-serif;
+    font-weight: 400;   
+    margin-bottom: 0px;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-bottom: 24px;
+    color: hsl(0, 0%, 59%);
+}
+
+.class2{
+    font-family: 'Kumbh Sans', sans-serif;
+    font-weight: 400;
+    margin-top: 10px;
+    color: hsl(0, 0%, 59%);
+}
+
+.age{
+    font-family: 'Kumbh Sans', sans-serif;
+    font-weight: 400;
+    margin-top: 10px;
+    color : hsl(227, 10%, 46%);
+}
+
+.class3{
+    display: inline-block;
+    font-family: 'Kumbh Sans', sans-serif;
+    font-weight: 700;
+    margin: 16px 37px 0px 40px;
+
+}
+
+.class4{
+    display: inline-block;
+    font-family: 'Kumbh Sans', sans-serif;
+    font-weight: 400;
+    margin: 0px 44px 0px 30px;
+    padding-bottom: 25px;
+    padding-top: 0px;
+    line-height: 0px;
+    color: hsl(0, 0%, 59%);
+}
+
+.photos{
+    display: inline-block;
+    font-family: 'Kumbh Sans', sans-serif;
+    font-weight: 400;
+    margin: 0px 36px 0px 40px;
+    padding-bottom: 25px;
+    padding-top: 0px;
+    line-height: 0px;   
+    color: hsl(0, 0%, 59%);
+}
